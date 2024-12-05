@@ -14,7 +14,7 @@ public class Box {
      }
 
     Box(){
-         // super(); ref immidiate parent class // to call the contructor // obect class is baap of all the class
+         // super(); ref immidiate parent class // to call the contructor // object class is baap of all the class
           this.l=-1;
           this.h=-1;
           this.w=-1;
