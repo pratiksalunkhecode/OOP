@@ -16,10 +16,6 @@ public class Driver {
 
                     c.area();
 
-                    
-
-
-
 
        }
 
